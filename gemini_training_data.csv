@@ -1,0 +1,815 @@
+ingredient,milk,eggs,fish,shellfish,tree_nuts,peanuts,wheat_gluten,soy,sesame
+abalone,0,0,0,1,0,0,0,0,0
+abalone extract,0,0,0,1,0,0,0,0,0
+acid whey,1,0,0,0,0,0,0,0,0
+agar,0,0,0,0,0,0,0,0,0
+aioli,0,1,0,0,0,0,0,0,0
+alaska pollock,0,0,1,0,0,0,0,0,0
+albumen,0,1,0,0,0,0,0,0,0
+albumin,0,1,0,0,0,0,0,0,0
+all purpose flour,0,0,0,0,0,0,1,0,0
+all-purpose flour,0,0,0,0,0,0,1,0,0
+almond,0,0,0,0,1,0,0,0,0
+almond butter,0,0,0,0,1,0,0,0,0
+almond extract,0,0,0,0,1,0,0,0,0
+almond flour,0,0,0,0,1,0,0,0,0
+almond meal,0,0,0,0,1,0,0,0,0
+almond milk,0,0,0,0,1,0,0,0,0
+almond oil,0,0,0,0,1,0,0,0,0
+almond paste,0,0,0,0,1,0,0,0,0
+almond powder,0,0,0,0,1,0,0,0,0
+almond protein,0,0,0,0,1,0,0,0,0
+almond protein powder,0,0,0,0,1,0,0,0,0
+almonds,0,0,0,0,1,0,0,0,0
+anchovies,0,0,1,0,0,0,0,0,0
+anchovy,0,0,1,0,0,0,0,0,0
+anchovy concentrate,0,0,1,0,0,0,0,0,0
+anchovy extract,0,0,1,0,0,0,0,0,0
+anchovy paste,0,0,1,0,0,0,0,0,0
+anchovy powder,0,0,1,0,0,0,0,0,0
+anchovy sauce,0,0,1,0,0,0,0,0,0
+anchovy seasoning,0,0,1,0,0,0,0,0,0
+anhydrous butterfat,1,0,0,0,0,0,0,0,0
+anhydrous milk fat,1,0,0,0,0,0,0,0,0
+apple,0,0,0,0,0,0,0,0,0
+arachis,0,0,0,0,0,1,0,0,0
+arachis hypogaea,0,0,0,0,0,1,0,0,0
+arachis oil,0,0,0,0,0,1,0,0,0
+avidin,0,1,0,0,0,0,0,0,0
+avocado,0,0,0,0,0,0,0,0,0
+avocado oil,0,0,0,0,0,0,0,0,0
+awase miso,0,0,0,0,0,0,0,1,0
+baking powder,0,0,0,0,0,0,0,0,0
+baking soda,0,0,0,0,0,0,0,0,0
+banana,0,0,0,0,0,0,0,0,0
+barley,0,0,0,0,0,0,1,0,0
+barley flour,0,0,0,0,0,0,1,0,0
+barley malt,0,0,0,0,0,0,1,0,0
+barley malt extract,0,0,0,0,0,0,1,0,0
+basil,0,0,0,0,0,0,0,0,0
+bass fish,0,0,1,0,0,0,0,0,0
+bay leaf,0,0,0,0,0,0,0,0,0
+bean curd,0,0,0,0,0,0,0,1,0
+beer,0,0,0,0,0,0,1,0,0
+beetroot,0,0,0,0,0,0,0,0,0
+biscuit,1,1,0,0,0,0,1,0,0
+biscuits,1,1,0,0,0,0,1,0,0
+black bean sauce,0,0,0,0,0,0,0,1,0
+black pepper,0,0,0,0,0,0,0,0,0
+blue cheese,1,0,0,0,0,0,0,0,0
+blueberry,0,0,0,0,0,0,0,0,0
+bonito,0,0,1,0,0,0,0,0,0
+bonito flakes,0,0,1,0,0,0,0,0,0
+brazil nut,0,0,0,0,1,0,0,0,0
+brazil nut oil,0,0,0,0,1,0,0,0,0
+brazil nuts,0,0,0,0,1,0,0,0,0
+brazilian nut,0,0,0,0,1,0,0,0,0
+brazilian nuts,0,0,0,0,1,0,0,0,0
+bread,0,0,0,0,0,0,1,0,0
+bread crumb,0,0,0,0,0,0,1,0,0
+bread crumbs,0,0,0,0,0,0,1,0,0
+bread flour,0,0,0,0,0,0,1,0,0
+breadcrumbs,0,0,0,0,0,0,1,0,0
+breaded,0,0,0,0,0,0,1,0,0
+breading,0,0,0,0,0,0,1,0,0
+brewer's yeast,0,0,0,0,0,0,1,0,0
+brie,1,0,0,0,0,0,0,0,0
+broccoli,0,0,0,0,0,0,0,0,0
+bulgur,0,0,0,0,0,0,1,0,0
+butter,1,0,0,0,0,0,0,0,0
+butter fat,1,0,0,0,0,0,0,0,0
+butter oil,1,0,0,0,0,0,0,0,0
+butterfat,1,0,0,0,0,0,0,0,0
+buttermilk,1,0,0,0,0,0,0,0,0
+buttermilk powder,1,0,0,0,0,0,0,0,0
+cabbage,0,0,0,0,0,0,0,0,0
+cake flour,0,0,0,0,0,0,1,0,0
+calcium caseinate,1,0,0,0,0,0,0,0,0
+camembert,1,0,0,0,0,0,0,0,0
+canola oil,0,0,0,0,0,0,0,0,0
+caramel color,0,0,0,0,0,0,0,0,0
+carp,0,0,1,0,0,0,0,0,0
+carrot,0,0,0,0,0,0,0,0,0
+casein,1,0,0,0,0,0,0,0,0
+casein concentrate,1,0,0,0,0,0,0,0,0
+casein isolate,1,0,0,0,0,0,0,0,0
+casein protein,1,0,0,0,0,0,0,0,0
+caseinate,1,0,0,0,0,0,0,0,0
+caseinates,1,0,0,0,0,0,0,0,0
+caseins,1,0,0,0,0,0,0,0,0
+cashew,0,0,0,0,1,0,0,0,0
+cashew butter,0,0,0,0,1,0,0,0,0
+cashew flour,0,0,0,0,1,0,0,0,0
+cashew meal,0,0,0,0,1,0,0,0,0
+cashew milk,0,0,0,0,1,0,0,0,0
+cashew oil,0,0,0,0,1,0,0,0,0
+cashew paste,0,0,0,0,1,0,0,0,0
+cashew powder,0,0,0,0,1,0,0,0,0
+cashew protein,0,0,0,0,1,0,0,0,0
+cashews,0,0,0,0,1,0,0,0,0
+cassava,0,0,0,0,0,0,0,0,0
+catfish,0,0,1,0,0,0,0,0,0
+cauliflower,0,0,0,0,0,0,0,0,0
+celery,0,0,0,0,0,0,0,0,0
+cheddar,1,0,0,0,0,0,0,0,0
+cheddar cheese,1,0,0,0,0,0,0,0,0
+cheese,1,0,0,0,0,0,0,0,0
+cheese powder,1,0,0,0,0,0,0,0,0
+cheese protein,1,0,0,0,0,0,0,0,0
+cheese solids,1,0,0,0,0,0,0,0,0
+chestnut,0,0,0,0,1,0,0,0,0
+chestnut flour,0,0,0,0,1,0,0,0,0
+chestnut meal,0,0,0,0,1,0,0,0,0
+chestnut oil,0,0,0,0,1,0,0,0,0
+chestnut paste,0,0,0,0,1,0,0,0,0
+chestnuts,0,0,0,0,1,0,0,0,0
+chickpea miso,0,0,0,0,0,0,0,0,0
+chili,0,0,0,0,0,0,0,0,0
+chinese black bean paste,0,0,0,0,0,0,0,1,0
+chinese douchi,0,0,0,0,0,0,0,1,0
+chinese douchi beans,0,0,0,0,0,0,0,1,0
+chinese fermented bean paste,0,0,0,0,0,0,0,1,0
+chinese fermented black beans,0,0,0,0,0,0,0,1,0
+chinese fermented black soybean,0,0,0,0,0,0,0,1,0
+chinese fermented black soybeans,0,0,0,0,0,0,0,1,0
+chinese fermented douchi,0,0,0,0,0,0,0,1,0
+chinese fermented soybean,0,0,0,0,0,0,0,1,0
+cilantro,0,0,0,0,0,0,0,0,0
+cinnamon,0,0,0,0,0,0,0,0,0
+citric acid,0,0,0,0,0,0,0,0,0
+clam,0,0,0,1,0,0,0,0,0
+clam concentrate,0,0,0,1,0,0,0,0,0
+clam extract,0,0,0,1,0,0,0,0,0
+clam juice,0,0,0,1,0,0,0,0,0
+clam powder,0,0,0,1,0,0,0,0,0
+clams,0,0,0,1,0,0,0,0,0
+clove,0,0,0,0,0,0,0,0,0
+cockle,0,0,0,1,0,0,0,0,0
+cockles,0,0,0,1,0,0,0,0,0
+cocoa butter,0,0,0,0,0,0,0,0,0
+cocoa powder,0,0,0,0,0,0,0,0,0
+coconut,0,0,0,0,0,0,0,0,0
+coconut butter,0,0,0,0,0,0,0,0,0
+coconut cream,0,0,0,0,0,0,0,0,0
+coconut flour,0,0,0,0,0,0,0,0,0
+coconut meal,0,0,0,0,0,0,0,0,0
+coconut milk,0,0,0,0,0,0,0,0,0
+coconut oil,0,0,0,0,0,0,0,0,0
+coconut powder,0,0,0,0,0,0,0,0,0
+coconut protein,0,0,0,0,0,0,0,0,0
+cod,0,0,1,0,0,0,0,0,0
+cod extract,0,0,1,0,0,0,0,0,0
+cod fish,0,0,1,0,0,0,0,0,0
+cod liver,0,0,1,0,0,0,0,0,0
+codfish,0,0,1,0,0,0,0,0,0
+coffee,0,0,0,0,0,0,0,0,0
+conch,0,0,0,1,0,0,0,0,0
+condensed milk,1,0,0,0,0,0,0,0,0
+cookie,1,1,0,0,0,0,1,1,0
+cookies,1,1,0,0,0,0,1,1,0
+coriander,0,0,0,0,0,0,0,0,0
+corn,0,0,0,0,0,0,0,0,0
+corn flour,0,0,0,0,0,0,0,0,0
+corn starch,0,0,0,0,0,0,0,0,0
+corn syrup,0,0,0,0,0,0,0,0,0
+cottage cheese,1,0,0,0,0,0,0,0,0
+couscous,0,0,0,0,0,0,1,0,0
+crab,0,0,0,1,0,0,0,0,0
+crab concentrate,0,0,0,1,0,0,0,0,0
+crab extract,0,0,0,1,0,0,0,0,0
+crab meat,0,0,0,1,0,0,0,0,0
+crab paste,0,0,0,1,0,0,0,0,0
+crab powder,0,0,0,1,0,0,0,0,0
+crab stock,0,0,0,1,0,0,0,0,0
+crabs,0,0,0,1,0,0,0,0,0
+cracker,0,0,0,0,0,0,1,0,0
+cracker crumbs,0,0,0,0,0,0,1,0,0
+crackers,0,0,0,0,0,0,1,0,0
+crawfish,0,0,0,1,0,0,0,0,0
+crawfish meat,0,0,0,1,0,0,0,0,0
+crayfish,0,0,0,1,0,0,0,0,0
+crayfish extract,0,0,0,1,0,0,0,0,0
+cream,1,0,0,0,0,0,0,0,0
+cream cheese,1,0,0,0,0,0,0,0,0
+cream powder,1,0,0,0,0,0,0,0,0
+cream solids,1,0,0,0,0,0,0,0,0
+crushed peanut,0,0,0,0,0,1,0,0,0
+crushed peanuts,0,0,0,0,0,1,0,0,0
+crushed sesame,0,0,0,0,0,0,0,0,1
+cucumber,0,0,0,0,0,0,0,0,0
+cultured cream,1,0,0,0,0,0,0,0,0
+cultured dairy,1,0,0,0,0,0,0,0,0
+cultured milk,1,0,0,0,0,0,0,0,0
+cumin,0,0,0,0,0,0,0,0,0
+custard,1,1,0,0,0,0,0,0,0
+dairy,1,0,0,0,0,0,0,0,0
+dairy product,1,0,0,0,0,0,0,0,0
+dairy products,1,0,0,0,0,0,0,0,0
+dairy protein,1,0,0,0,0,0,0,0,0
+dairy protein concentrate,1,0,0,0,0,0,0,0,0
+dairy protein isolate,1,0,0,0,0,0,0,0,0
+dairy solids,1,0,0,0,0,0,0,0,0
+defatted peanut flour,0,0,0,0,0,1,0,0,0
+defatted peanut powder,0,0,0,0,0,1,0,0,0
+demineralized whey,1,0,0,0,0,0,0,0,0
+dill,0,0,0,0,0,0,0,0,0
+douchi,0,0,0,0,0,0,0,1,0
+douchi beans,0,0,0,0,0,0,0,1,0
+douchi paste,0,0,0,0,0,0,0,1,0
+dried anchovy,0,0,1,0,0,0,0,0,0
+dried bonito,0,0,1,0,0,0,0,0,0
+dried egg,0,1,0,0,0,0,0,0,0
+dried egg protein,0,1,0,0,0,0,0,0,0
+dried egg white,0,1,0,0,0,0,0,0,0
+dried egg whites,0,1,0,0,0,0,0,0,0
+dried egg yolk,0,1,0,0,0,0,0,0,0
+dried egg yolks,0,1,0,0,0,0,0,0,0
+dried eggs,0,1,0,0,0,0,0,0,0
+dried shrimp,0,0,0,1,0,0,0,0,0
+dried shrimp powder,0,0,0,1,0,0,0,0,0
+dried whole egg,0,1,0,0,0,0,0,0,0
+dry milk,1,0,0,0,0,0,0,0,0
+dry milk powder,1,0,0,0,0,0,0,0,0
+dry milk solids,1,0,0,0,0,0,0,0,0
+durum,0,0,0,0,0,0,1,0,0
+durum flour,0,0,0,0,0,0,1,0,0
+durum wheat,0,0,0,0,0,0,1,0,0
+edamame,0,0,0,0,0,0,0,1,0
+edamame beans,0,0,0,0,0,0,0,1,0
+eel,0,0,1,0,0,0,0,0,0
+egg,0,1,0,0,0,0,0,0,0
+egg albumen,0,1,0,0,0,0,0,0,0
+egg albumin,0,1,0,0,0,0,0,0,0
+egg lecithin,0,1,0,0,0,0,0,0,0
+egg mayonnaise,0,1,0,0,0,0,0,0,0
+egg noodles,0,1,0,0,0,0,1,0,0
+egg powder,0,1,0,0,0,0,0,0,0
+egg product,0,1,0,0,0,0,0,0,0
+egg products,0,1,0,0,0,0,0,0,0
+egg protein,0,1,0,0,0,0,0,0,0
+egg protein powder,0,1,0,0,0,0,0,0,0
+egg proteins,0,1,0,0,0,0,0,0,0
+egg solids,0,1,0,0,0,0,0,0,0
+egg wash,0,1,0,0,0,0,0,0,0
+egg wash coating,0,1,0,0,0,0,0,0,0
+egg white,0,1,0,0,0,0,0,0,0
+egg white powder,0,1,0,0,0,0,0,0,0
+egg whites,0,1,0,0,0,0,0,0,0
+egg yolk,0,1,0,0,0,0,0,0,0
+egg yolk powder,0,1,0,0,0,0,0,0,0
+egg yolks,0,1,0,0,0,0,0,0,0
+eggplant,0,0,0,0,0,0,0,0,0
+eggs,0,1,0,0,0,0,0,0,0
+einkorn,0,0,0,0,0,0,1,0,0
+einkorn flour,0,0,0,0,0,0,1,0,0
+emmer,0,0,0,0,0,0,1,0,0
+emmer flour,0,0,0,0,0,0,1,0,0
+evaporated milk,1,0,0,0,0,0,0,0,0
+farina,0,0,0,0,0,0,1,0,0
+farro,0,0,0,0,0,0,1,0,0
+fat free milk powder,1,0,0,0,0,0,0,0,0
+fermented anchovy,0,0,1,0,0,0,0,0,0
+fermented bean curd,0,0,0,0,0,0,0,1,0
+fermented bean paste,0,0,0,0,0,0,0,1,0
+fermented black bean,0,0,0,0,0,0,0,1,0
+fermented black bean douchi,0,0,0,0,0,0,0,1,0
+fermented black bean paste,0,0,0,0,0,0,0,1,0
+fermented black beans,0,0,0,0,0,0,0,1,0
+fermented black douchi,0,0,0,0,0,0,0,1,0
+fermented black soybean,0,0,0,0,0,0,0,1,0
+fermented black soybean paste,0,0,0,0,0,0,0,1,0
+fermented black soybeans,0,0,0,0,0,0,0,1,0
+fermented douchi,0,0,0,0,0,0,0,1,0
+fermented soy bean paste,0,0,0,0,0,0,0,1,0
+fermented soy cake,0,0,0,0,0,0,0,1,0
+fermented soybean,0,0,0,0,0,0,0,1,0
+fermented soybean blocks,0,0,0,0,0,0,0,1,0
+fermented soybean cake,0,0,0,0,0,0,0,1,0
+fermented soybean cakes,0,0,0,0,0,0,0,1,0
+fermented soybean food,0,0,0,0,0,0,0,1,0
+fermented soybean ingredient,0,0,0,0,0,0,0,1,0
+fermented soybean paste,0,0,0,0,0,0,0,1,0
+fermented soybean product,0,0,0,0,0,0,0,1,0
+fermented soybeans,0,0,0,0,0,0,0,1,0
+fermented tofu,0,0,0,0,0,0,0,1,0
+fermented tofu paste,0,0,0,0,0,0,0,1,0
+firm tofu,0,0,0,0,0,0,0,1,0
+fish,0,0,1,0,0,0,0,0,0
+fish broth,0,0,1,0,0,0,0,0,0
+fish concentrate,0,0,1,0,0,0,0,0,0
+fish extract,0,0,1,0,0,0,0,0,0
+fish extracts,0,0,1,0,0,0,0,0,0
+fish gelatin,0,0,1,0,0,0,0,0,0
+fish meal,0,0,1,0,0,0,0,0,0
+fish paste,0,0,1,0,0,0,0,0,0
+fish powder,0,0,1,0,0,0,0,0,0
+fish protein,0,0,1,0,0,0,0,0,0
+fish protein concentrate,0,0,1,0,0,0,0,0,0
+fish proteins,0,0,1,0,0,0,0,0,0
+fish sauce,0,0,1,0,0,0,0,0,0
+fish seasoning,0,0,1,0,0,0,0,0,0
+fish stock,0,0,1,0,0,0,0,0,0
+flounder,0,0,1,0,0,0,0,0,0
+garlic,0,0,0,0,0,0,0,0,0
+gelatin,0,0,0,0,0,0,0,0,0
+ghee,1,0,0,0,0,0,0,0,0
+gianduja,0,0,0,0,1,0,0,0,0
+ginger,0,0,0,0,0,0,0,0,0
+gluten,0,0,0,0,0,0,1,0,0
+gluten concentrate,0,0,0,0,0,0,1,0,0
+gluten flour,0,0,0,0,0,0,1,0,0
+gluten protein,0,0,0,0,0,0,1,0,0
+gluten proteins,0,0,0,0,0,0,1,0,0
+gouda,1,0,0,0,0,0,0,0,0
+graham flour,0,0,0,0,0,0,1,0,0
+grape,0,0,0,0,0,0,0,0,0
+ground almond,0,0,0,0,1,0,0,0,0
+ground almonds,0,0,0,0,1,0,0,0,0
+ground cashew,0,0,0,0,1,0,0,0,0
+ground cashews,0,0,0,0,1,0,0,0,0
+ground peanut,0,0,0,0,0,1,0,0,0
+ground peanuts,0,0,0,0,0,1,0,0,0
+ground sesame,0,0,0,0,0,0,0,0,1
+ground sesame butter,0,0,0,0,0,0,0,0,1
+ground sesame paste,0,0,0,0,0,0,0,0,1
+ground sesame powder,0,0,0,0,0,0,0,0,1
+ground sesame seeds,0,0,0,0,0,0,0,0,1
+ground walnut,0,0,0,0,1,0,0,0,0
+ground walnuts,0,0,0,0,1,0,0,0,0
+groundnut,0,0,0,0,0,1,0,0,0
+groundnut oil,0,0,0,0,0,1,0,0,0
+groundnuts,0,0,0,0,0,1,0,0,0
+grouper,0,0,1,0,0,0,0,0,0
+guar gum,0,0,0,0,0,0,0,0,0
+haddock,0,0,1,0,0,0,0,0,0
+hake,0,0,1,0,0,0,0,0,0
+half and half,1,0,0,0,0,0,0,0,0
+half-and-half,1,0,0,0,0,0,0,0,0
+halibut,0,0,1,0,0,0,0,0,0
+halva,0,0,0,0,0,0,0,0,1
+hatcho miso,0,0,0,0,0,0,0,1,0
+hazelnut,0,0,0,0,1,0,0,0,0
+hazelnut butter,0,0,0,0,1,0,0,0,0
+hazelnut extract,0,0,0,0,1,0,0,0,0
+hazelnut flour,0,0,0,0,1,0,0,0,0
+hazelnut meal,0,0,0,0,1,0,0,0,0
+hazelnut milk,0,0,0,0,1,0,0,0,0
+hazelnut oil,0,0,0,0,1,0,0,0,0
+hazelnut paste,0,0,0,0,1,0,0,0,0
+hazelnut powder,0,0,0,0,1,0,0,0,0
+hazelnuts,0,0,0,0,1,0,0,0,0
+heavy cream,1,0,0,0,0,0,0,0,0
+heavy whipping cream,1,0,0,0,0,0,0,0,0
+herring,0,0,1,0,0,0,0,0,0
+herring fish,0,0,1,0,0,0,0,0,0
+herring paste,0,0,1,0,0,0,0,0,0
+hoisin sauce,0,0,0,0,0,0,1,1,0
+hummus with tahini,0,0,0,0,0,0,0,0,1
+hydrolysed soy protein,0,0,0,0,0,0,0,1,0
+hydrolyzed soy protein,0,0,0,0,0,0,0,1,0
+hydrolyzed wheat protein,0,0,0,0,0,0,1,0,0
+kamut,0,0,0,0,0,0,1,0,0
+katsuobushi,0,0,1,0,0,0,0,0,0
+khorasan wheat,0,0,0,0,0,0,1,0,0
+lactalbumin,1,0,0,0,0,0,0,0,0
+lactoglobulin,1,0,0,0,0,0,0,0,0
+lactose,1,0,0,0,0,0,0,0,0
+langoustine,0,0,0,1,0,0,0,0,0
+langoustines,0,0,0,1,0,0,0,0,0
+lemon,0,0,0,0,0,0,0,0,0
+lettuce,0,0,0,0,0,0,0,0,0
+light cream,1,0,0,0,0,0,0,0,0
+lime,0,0,0,0,0,0,0,0,0
+lobster,0,0,0,1,0,0,0,0,0
+lobster extract,0,0,0,1,0,0,0,0,0
+lobster meat,0,0,0,1,0,0,0,0,0
+lobster stock,0,0,0,1,0,0,0,0,0
+lobsters,0,0,0,1,0,0,0,0,0
+low fat milk powder,1,0,0,0,0,0,0,0,0
+lysozyme,0,1,0,0,0,0,0,0,0
+macadamia,0,0,0,0,1,0,0,0,0
+macadamia butter,0,0,0,0,1,0,0,0,0
+macadamia flour,0,0,0,0,1,0,0,0,0
+macadamia meal,0,0,0,0,1,0,0,0,0
+macadamia milk,0,0,0,0,1,0,0,0,0
+macadamia nut,0,0,0,0,1,0,0,0,0
+macadamia nut oil,0,0,0,0,1,0,0,0,0
+macadamia nuts,0,0,0,0,1,0,0,0,0
+macadamia oil,0,0,0,0,1,0,0,0,0
+macadamia paste,0,0,0,0,1,0,0,0,0
+macaroni,0,0,0,0,0,0,1,0,0
+mackerel,0,0,1,0,0,0,0,0,0
+mackerel fish,0,0,1,0,0,0,0,0,0
+magnesium caseinate,1,0,0,0,0,0,0,0,0
+mahi mahi,0,0,1,0,0,0,0,0,0
+mahi-mahi,0,0,1,0,0,0,0,0,0
+malt,0,0,0,0,0,0,1,0,0
+maltodextrin,0,0,0,0,0,0,0,0,0
+mango,0,0,0,0,0,0,0,0,0
+marlin,0,0,1,0,0,0,0,0,0
+matzah,0,0,0,0,0,0,1,0,0
+matzo,0,0,0,0,0,0,1,0,0
+mayo,0,1,0,0,0,0,0,0,0
+mayonnaise,0,1,0,0,0,0,0,0,0
+meringue,0,1,0,0,0,0,0,0,0
+meringue powder,0,1,0,0,0,0,0,0,0
+micellar casein,1,0,0,0,0,0,0,0,0
+milk,1,0,0,0,0,0,0,0,0
+milk beverage,1,0,0,0,0,0,0,0,0
+milk caseinate,1,0,0,0,0,0,0,0,0
+milk chocolate,1,0,0,0,0,0,0,0,0
+milk concentrate,1,0,0,0,0,0,0,0,0
+milk concentrate powder,1,0,0,0,0,0,0,0,0
+milk cream,1,0,0,0,0,0,0,0,0
+milk derivative,1,0,0,0,0,0,0,0,0
+milk derivatives,1,0,0,0,0,0,0,0,0
+milk fat,1,0,0,0,0,0,0,0,0
+milk ingredients,1,0,0,0,0,0,0,0,0
+milk powder,1,0,0,0,0,0,0,0,0
+milk protein,1,0,0,0,0,0,0,0,0
+milk protein concentrate,1,0,0,0,0,0,0,0,0
+milk protein isolate,1,0,0,0,0,0,0,0,0
+milk proteins,1,0,0,0,0,0,0,0,0
+milk solids,1,0,0,0,0,0,0,0,0
+milk solids nonfat,1,0,0,0,0,0,0,0,0
+milk syrup,1,0,0,0,0,0,0,0,0
+milk-derived casein,1,0,0,0,0,0,0,0,0
+milk-derived whey,1,0,0,0,0,0,0,0,0
+milkfat,1,0,0,0,0,0,0,0,0
+miso,0,0,0,0,0,0,0,1,0
+miso paste,0,0,0,0,0,0,0,1,0
+miso powder,0,0,0,0,0,0,0,1,0
+mixed nuts,0,0,0,0,1,1,0,0,0
+mixed tree nuts,0,0,0,0,1,0,0,0,0
+mozzarella,1,0,0,0,0,0,0,0,0
+mozzarella cheese,1,0,0,0,0,0,0,0,0
+mullet,0,0,1,0,0,0,0,0,0
+mushroom,0,0,0,0,0,0,0,0,0
+mussel,0,0,0,1,0,0,0,0,0
+mussel extract,0,0,0,1,0,0,0,0,0
+mussel powder,0,0,0,1,0,0,0,0,0
+mussels,0,0,0,1,0,0,0,0,0
+natto,0,0,0,0,0,0,0,1,0
+nonfat dry milk,1,0,0,0,0,0,0,0,0
+nonfat dry milk powder,1,0,0,0,0,0,0,0,0
+nonfat milk solids,1,0,0,0,0,0,0,0,0
+noodles,0,0,0,0,0,0,1,0,0
+nut butter,0,0,0,0,1,0,0,0,0
+nut flour,0,0,0,0,1,0,0,0,0
+nut meal,0,0,0,0,1,0,0,0,0
+nut paste,0,0,0,0,1,0,0,0,0
+nutmeg,0,0,0,0,0,0,0,0,0
+olive oil,0,0,0,0,0,0,0,0,0
+onion,0,0,0,0,0,0,0,0,0
+orange,0,0,0,0,0,0,0,0,0
+oregano,0,0,0,0,0,0,0,0,0
+ovalbumin,0,1,0,0,0,0,0,0,0
+ovoglobulin,0,1,0,0,0,0,0,0,0
+ovomucin,0,1,0,0,0,0,0,0,0
+ovomucoid,0,1,0,0,0,0,0,0,0
+ovotransferrin,0,1,0,0,0,0,0,0,0
+oyster,0,0,0,1,0,0,0,0,0
+oyster concentrate,0,0,0,1,0,0,0,0,0
+oyster extract,0,0,0,1,0,0,0,0,0
+oyster powder,0,0,0,1,0,0,0,0,0
+oyster sauce,0,0,0,1,0,0,0,0,0
+oyster seasoning,0,0,0,1,0,0,0,0,0
+oysters,0,0,0,1,0,0,0,0,0
+panko,0,0,0,0,0,0,1,0,0
+papaya,0,0,0,0,0,0,0,0,0
+paprika,0,0,0,0,0,0,0,0,0
+parmesan,1,0,0,0,0,0,0,0,0
+parmesan cheese,1,0,0,0,0,0,0,0,0
+parsley,0,0,0,0,0,0,0,0,0
+pasta,0,0,0,0,0,0,1,0,0
+pasteurized egg white,0,1,0,0,0,0,0,0,0
+pasteurized egg yolk,0,1,0,0,0,0,0,0,0
+pastry flour,0,0,0,0,0,0,1,0,0
+peach,0,0,0,0,0,0,0,0,0
+peanut,0,0,0,0,0,1,0,0,0
+peanut butter,0,0,0,0,0,1,0,0,0
+peanut cream,0,0,0,0,0,1,0,0,0
+peanut extract,0,0,0,0,0,1,0,0,0
+peanut flour,0,0,0,0,0,1,0,0,0
+peanut meal,0,0,0,0,0,1,0,0,0
+peanut oil,0,0,0,0,0,1,0,0,0
+peanut paste,0,0,0,0,0,1,0,0,0
+peanut powder,0,0,0,0,0,1,0,0,0
+peanut product,0,0,0,0,0,1,0,0,0
+peanut products,0,0,0,0,0,1,0,0,0
+peanut protein,0,0,0,0,0,1,0,0,0
+peanut protein concentrate,0,0,0,0,0,1,0,0,0
+peanut protein isolate,0,0,0,0,0,1,0,0,0
+peanut protein powder,0,0,0,0,0,1,0,0,0
+peanut satay sauce,0,0,0,0,0,1,0,0,0
+peanut sauce,0,0,0,0,0,1,0,0,0
+peanut spread,0,0,0,0,0,1,0,0,0
+peanuts,0,0,0,0,0,1,0,0,0
+pear,0,0,0,0,0,0,0,0,0
+pecan,0,0,0,0,1,0,0,0,0
+pecan butter,0,0,0,0,1,0,0,0,0
+pecan flour,0,0,0,0,1,0,0,0,0
+pecan meal,0,0,0,0,1,0,0,0,0
+pecan oil,0,0,0,0,1,0,0,0,0
+pecan paste,0,0,0,0,1,0,0,0,0
+pecan powder,0,0,0,0,1,0,0,0,0
+pecans,0,0,0,0,1,0,0,0,0
+pectin,0,0,0,0,0,0,0,0,0
+perch,0,0,1,0,0,0,0,0,0
+periwinkle,0,0,0,1,0,0,0,0,0
+pike,0,0,1,0,0,0,0,0,0
+pine kernel,0,0,0,0,1,0,0,0,0
+pine kernels,0,0,0,0,1,0,0,0,0
+pine nut,0,0,0,0,1,0,0,0,0
+pine nut oil,0,0,0,0,1,0,0,0,0
+pine nuts,0,0,0,0,1,0,0,0,0
+pineapple,0,0,0,0,0,0,0,0,0
+pistachio,0,0,0,0,1,0,0,0,0
+pistachio butter,0,0,0,0,1,0,0,0,0
+pistachio flour,0,0,0,0,1,0,0,0,0
+pistachio meal,0,0,0,0,1,0,0,0,0
+pistachio milk,0,0,0,0,1,0,0,0,0
+pistachio oil,0,0,0,0,1,0,0,0,0
+pistachio paste,0,0,0,0,1,0,0,0,0
+pistachio powder,0,0,0,0,1,0,0,0,0
+pistachios,0,0,0,0,1,0,0,0,0
+plain flour,0,0,0,0,0,0,1,0,0
+plum,0,0,0,0,0,0,0,0,0
+pollock,0,0,1,0,0,0,0,0,0
+potassium caseinate,1,0,0,0,0,0,0,0,0
+potato,0,0,0,0,0,0,0,0,0
+potato starch,0,0,0,0,0,0,0,0,0
+powdered milk,1,0,0,0,0,0,0,0,0
+praline,0,0,0,0,1,0,0,0,0
+prawn,0,0,0,1,0,0,0,0,0
+prawn paste,0,0,0,1,0,0,0,0,0
+prawns,0,0,0,1,0,0,0,0,0
+provolone,1,0,0,0,0,0,0,0,0
+pumpkin,0,0,0,0,0,0,0,0,0
+radish,0,0,0,0,0,0,0,0,0
+ramen noodles,0,0,0,0,0,0,1,0,0
+raspberry,0,0,0,0,0,0,0,0,0
+red miso,0,0,0,0,0,0,0,1,0
+rice,0,0,0,0,0,0,0,0,0
+rice flour,0,0,0,0,0,0,0,0,0
+ricotta,1,0,0,0,0,0,0,0,0
+roasted peanut,0,0,0,0,0,1,0,0,0
+roasted peanuts,0,0,0,0,0,1,0,0,0
+roasted soybeans,0,0,0,0,0,0,0,1,0
+rosemary,0,0,0,0,0,0,0,0,0
+rye,0,0,0,0,0,0,1,0,0
+rye bread,0,0,0,0,0,0,1,0,0
+rye flour,0,0,0,0,0,0,1,0,0
+sage,0,0,0,0,0,0,0,0,0
+salmon,0,0,1,0,0,0,0,0,0
+salmon extract,0,0,1,0,0,0,0,0,0
+salmon fish,0,0,1,0,0,0,0,0,0
+salmon powder,0,0,1,0,0,0,0,0,0
+salt,0,0,0,0,0,0,0,0,0
+salted douchi,0,0,0,0,0,0,0,1,0
+salted fermented black beans,0,0,0,0,0,0,0,1,0
+sardine,0,0,1,0,0,0,0,0,0
+sardine extract,0,0,1,0,0,0,0,0,0
+sardine paste,0,0,1,0,0,0,0,0,0
+sardine sauce,0,0,1,0,0,0,0,0,0
+sardines,0,0,1,0,0,0,0,0,0
+satay sauce,0,0,0,0,0,1,0,0,0
+scallop,0,0,0,1,0,0,0,0,0
+scallop extract,0,0,0,1,0,0,0,0,0
+scallop powder,0,0,0,1,0,0,0,0,0
+scallops,0,0,0,1,0,0,0,0,0
+sea bass,0,0,1,0,0,0,0,0,0
+seitan,0,0,0,0,0,0,1,0,0
+self raising flour,0,0,0,0,0,0,1,0,0
+self rising flour,0,0,0,0,0,0,1,0,0
+self-raising flour,0,0,0,0,0,0,1,0,0
+self-rising flour,0,0,0,0,0,0,1,0,0
+semolina,0,0,0,0,0,0,1,0,0
+sesame,0,0,0,0,0,0,0,0,1
+sesame bran,0,0,0,0,0,0,0,0,1
+sesame butter,0,0,0,0,0,0,0,0,1
+sesame butter paste,0,0,0,0,0,0,0,0,1
+sesame dressing,0,0,0,0,0,0,0,0,1
+sesame extract,0,0,0,0,0,0,0,0,1
+sesame flour,0,0,0,0,0,0,0,0,1
+sesame hull,0,0,0,0,0,0,0,0,1
+sesame meal,0,0,0,0,0,0,0,0,1
+sesame meal powder,0,0,0,0,0,0,0,0,1
+sesame oil,0,0,0,0,0,0,0,0,1
+sesame oil extract,0,0,0,0,0,0,0,0,1
+sesame paste,0,0,0,0,0,0,0,0,1
+sesame paste spread,0,0,0,0,0,0,0,0,1
+sesame powder,0,0,0,0,0,0,0,0,1
+sesame product,0,0,0,0,0,0,0,0,1
+sesame products,0,0,0,0,0,0,0,0,1
+sesame protein,0,0,0,0,0,0,0,0,1
+sesame protein concentrate,0,0,0,0,0,0,0,0,1
+sesame protein isolate,0,0,0,0,0,0,0,0,1
+sesame puree,0,0,0,0,0,0,0,0,1
+sesame sauce,0,0,0,0,0,0,0,0,1
+sesame seed,0,0,0,0,0,0,0,0,1
+sesame seed butter,0,0,0,0,0,0,0,0,1
+sesame seed extract,0,0,0,0,0,0,0,0,1
+sesame seed meal,0,0,0,0,0,0,0,0,1
+sesame seed oil,0,0,0,0,0,0,0,0,1
+sesame seed paste,0,0,0,0,0,0,0,0,1
+sesame seed powder,0,0,0,0,0,0,0,0,1
+sesame seed puree,0,0,0,0,0,0,0,0,1
+sesame seeds,0,0,0,0,0,0,0,0,1
+shellfish,0,0,0,1,0,0,0,0,0
+shellfish broth,0,0,0,1,0,0,0,0,0
+shellfish extract,0,0,0,1,0,0,0,0,0
+shellfish paste,0,0,0,1,0,0,0,0,0
+shellfish powder,0,0,0,1,0,0,0,0,0
+shellfish protein,0,0,0,1,0,0,0,0,0
+shellfish stock,0,0,0,1,0,0,0,0,0
+shoyu,0,0,0,0,0,0,1,1,0
+shrimp,0,0,0,1,0,0,0,0,0
+shrimp broth,0,0,0,1,0,0,0,0,0
+shrimp concentrate,0,0,0,1,0,0,0,0,0
+shrimp extract,0,0,0,1,0,0,0,0,0
+shrimp paste,0,0,0,1,0,0,0,0,0
+shrimp powder,0,0,0,1,0,0,0,0,0
+shrimp sauce,0,0,0,1,0,0,0,0,0
+shrimp seasoning,0,0,0,1,0,0,0,0,0
+shrimp stock,0,0,0,1,0,0,0,0,0
+shrimps,0,0,0,1,0,0,0,0,0
+silken tofu,0,0,0,0,0,0,0,1,0
+skim milk powder,1,0,0,0,0,0,0,0,0
+skimmed milk powder,1,0,0,0,0,0,0,0,0
+snapper,0,0,1,0,0,0,0,0,0
+sodium caseinate,1,0,0,0,0,0,0,0,0
+sole,0,0,1,0,0,0,0,0,0
+sour cream,1,0,0,0,0,0,0,0,0
+soy,0,0,0,0,0,0,0,1,0
+soy bean,0,0,0,0,0,0,0,1,0
+soy bean oil,0,0,0,0,0,0,0,1,0
+soy beans,0,0,0,0,0,0,0,1,0
+soy beverage,0,0,0,0,0,0,0,1,0
+soy concentrate,0,0,0,0,0,0,0,1,0
+soy curd,0,0,0,0,0,0,0,1,0
+soy derivative,0,0,0,0,0,0,0,1,0
+soy derivatives,0,0,0,0,0,0,0,1,0
+soy drink,0,0,0,0,0,0,0,1,0
+soy extract,0,0,0,0,0,0,0,1,0
+soy flour,0,0,0,0,0,0,0,1,0
+soy lecithin,0,0,0,0,0,0,0,1,0
+soy meal,0,0,0,0,0,0,0,1,0
+soy milk,0,0,0,0,0,0,0,1,0
+soy nut,0,0,0,0,0,0,0,1,0
+soy nuts,0,0,0,0,0,0,0,1,0
+soy oil,0,0,0,0,0,0,0,1,0
+soy peptide,0,0,0,0,0,0,0,1,0
+soy peptides,0,0,0,0,0,0,0,1,0
+soy powder,0,0,0,0,0,0,0,1,0
+soy product,0,0,0,0,0,0,0,1,0
+soy products,0,0,0,0,0,0,0,1,0
+soy protein,0,0,0,0,0,0,0,1,0
+soy protein concentrate,0,0,0,0,0,0,0,1,0
+soy protein hydrolysate,0,0,0,0,0,0,0,1,0
+soy protein isolate,0,0,0,0,0,0,0,1,0
+soy sauce,0,0,0,0,0,0,0,1,0
+soy tempeh,0,0,0,0,0,0,0,1,0
+soy yogurt,0,0,0,0,0,0,0,1,0
+soya,0,0,0,0,0,0,0,1,0
+soya flour,0,0,0,0,0,0,0,1,0
+soya lecithin,0,0,0,0,0,0,0,1,0
+soya milk,0,0,0,0,0,0,0,1,0
+soya oil,0,0,0,0,0,0,0,1,0
+soya sauce,0,0,0,0,0,0,1,1,0
+soybean,0,0,0,0,0,0,0,1,0
+soybean cake,0,0,0,0,0,0,0,1,0
+soybean curd,0,0,0,0,0,0,0,1,0
+soybean extract,0,0,0,0,0,0,0,1,0
+soybean fermentation,0,0,0,0,0,0,0,1,0
+soybean flour,0,0,0,0,0,0,0,1,0
+soybean lecithin,0,0,0,0,0,0,0,1,0
+soybean meal,0,0,0,0,0,0,0,1,0
+soybean oil,0,0,0,0,0,0,0,1,0
+soybean paste,0,0,0,0,0,0,0,1,0
+soybean powder,0,0,0,0,0,0,0,1,0
+soybeans,0,0,0,0,0,0,0,1,0
+spaghetti,0,0,0,0,0,0,1,0,0
+spelt,0,0,0,0,0,0,1,0,0
+spelt flour,0,0,0,0,0,0,1,0,0
+spinach,0,0,0,0,0,0,0,0,0
+squash,0,0,0,0,0,0,0,0,0
+strawberry,0,0,0,0,0,0,0,0,0
+strong flour,0,0,0,0,0,0,1,0,0
+sugar,0,0,0,0,0,0,0,0,0
+sunflower oil,0,0,0,0,0,0,0,0,0
+surimi,0,0,1,0,0,0,0,0,0
+sweet potato,0,0,0,0,0,0,0,0,0
+sweet whey,1,0,0,0,0,0,0,0,0
+sweetened condensed milk,1,0,0,0,0,0,0,0,0
+swiss cheese,1,0,0,0,0,0,0,0,0
+swordfish,0,0,1,0,0,0,0,0,0
+tahina,0,0,0,0,0,0,0,0,1
+tahini,0,0,0,0,0,0,0,0,1
+tahini paste,0,0,0,0,0,0,0,0,1
+tamari,0,0,0,0,0,0,0,1,0
+tapioca starch,0,0,0,0,0,0,0,0,0
+tarragon,0,0,0,0,0,0,0,0,0
+tea,0,0,0,0,0,0,0,0,0
+tempe,0,0,0,0,0,0,0,1,0
+tempeh,0,0,0,0,0,0,0,1,0
+tempeh cake,0,0,0,0,0,0,0,1,0
+textured soy protein,0,0,0,0,0,0,0,1,0
+textured vegetable protein,0,0,0,0,0,0,0,1,0
+thyme,0,0,0,0,0,0,0,0,0
+tilapia,0,0,1,0,0,0,0,0,0
+tofu,0,0,0,0,0,0,0,1,0
+tomato,0,0,0,0,0,0,0,0,0
+traditional tempeh,0,0,0,0,0,0,0,1,0
+tree_nuts,0,0,0,0,1,0,0,0,0
+triticale,0,0,0,0,0,0,1,0,0
+trout,0,0,1,0,0,0,0,0,0
+trout fish,0,0,1,0,0,0,0,0,0
+tuna,0,0,1,0,0,0,0,0,0
+tuna extract,0,0,1,0,0,0,0,0,0
+tuna fish,0,0,1,0,0,0,0,0,0
+tuna paste,0,0,1,0,0,0,0,0,0
+turmeric,0,0,0,0,0,0,0,0,0
+tvp,0,0,0,0,0,0,0,1,0
+udon,0,0,0,0,0,0,1,0,0
+vegetable oil,0,0,0,0,0,0,0,0,0
+vital gluten,0,0,0,0,0,0,1,0,0
+vital wheat gluten,0,0,0,0,0,0,1,0,0
+walnut,0,0,0,0,1,0,0,0,0
+walnut butter,0,0,0,0,1,0,0,0,0
+walnut extract,0,0,0,0,1,0,0,0,0
+walnut flour,0,0,0,0,1,0,0,0,0
+walnut meal,0,0,0,0,1,0,0,0,0
+walnut milk,0,0,0,0,1,0,0,0,0
+walnut oil,0,0,0,0,1,0,0,0,0
+walnut paste,0,0,0,0,1,0,0,0,0
+walnut powder,0,0,0,0,1,0,0,0,0
+walnuts,0,0,0,0,1,0,0,0,0
+water,0,0,0,0,0,0,0,0,0
+watermelon,0,0,0,0,0,0,0,0,0
+wheat,0,0,0,0,0,0,1,0,0
+wheat beer,0,0,0,0,0,0,1,0,0
+wheat bran,0,0,0,0,0,0,1,0,0
+wheat bran flour,0,0,0,0,0,0,1,0,0
+wheat bran powder,0,0,0,0,0,0,1,0,0
+wheat bread,0,0,0,0,0,0,1,0,0
+wheat cereal,0,0,0,0,0,0,1,0,0
+wheat crumbs,0,0,0,0,0,0,1,0,0
+wheat derivative,0,0,0,0,0,0,1,0,0
+wheat derivatives,0,0,0,0,0,0,1,0,0
+wheat dough,0,0,0,0,0,0,1,0,0
+wheat fiber,0,0,0,0,0,0,1,0,0
+wheat fibre,0,0,0,0,0,0,1,0,0
+wheat flour,0,0,0,0,0,0,1,0,0
+wheat flour blend,0,0,0,0,0,0,1,0,0
+wheat flour powder,0,0,0,0,0,0,1,0,0
+wheat germ,0,0,0,0,0,0,1,0,0
+wheat germ oil,0,0,0,0,0,0,1,0,0
+wheat germ powder,0,0,0,0,0,0,1,0,0
+wheat gluten,0,0,0,0,0,0,1,0,0
+wheat ingredients,0,0,0,0,0,0,1,0,0
+wheat malt,0,0,0,0,0,0,1,0,0
+wheat noodles,0,0,0,0,0,0,1,0,0
+wheat product,0,0,0,0,0,0,1,0,0
+wheat products,0,0,0,0,0,0,1,0,0
+wheat protein,0,0,0,0,0,0,1,0,0
+wheat protein concentrate,0,0,0,0,0,0,1,0,0
+wheat protein isolate,0,0,0,0,0,0,1,0,0
+wheat proteins,0,0,0,0,0,0,1,0,0
+wheat starch,0,0,0,0,0,0,1,0,0
+wheat starches,0,0,0,0,0,0,1,0,0
+wheat-based flour,0,0,0,0,0,0,1,0,0
+wheat_gluten,0,0,0,0,0,0,1,0,0
+whelk,0,0,0,1,0,0,0,0,0
+whey,1,0,0,0,0,0,0,0,0
+whey concentrate,1,0,0,0,0,0,0,0,0
+whey isolate,1,0,0,0,0,0,0,0,0
+whey permeate,1,0,0,0,0,0,0,0,0
+whey powder,1,0,0,0,0,0,0,0,0
+whey protein,1,0,0,0,0,0,0,0,0
+whey protein concentrate,1,0,0,0,0,0,0,0,0
+whey protein isolate,1,0,0,0,0,0,0,0,0
+whey solids,1,0,0,0,0,0,0,0,0
+whipping cream,1,0,0,0,0,0,0,0,0
+white flour,0,0,0,0,0,0,1,0,0
+white miso,0,0,0,0,0,0,0,1,0
+white pepper,0,0,0,0,0,0,0,0,0
+white wheat flour,0,0,0,0,0,0,1,0,0
+whitefish,0,0,1,0,0,0,0,0,0
+whole egg,0,1,0,0,0,0,0,0,0
+whole egg powder,0,1,0,0,0,0,0,0,0
+whole eggs,0,1,0,0,0,0,0,0,0
+whole meal flour,0,0,0,0,0,0,1,0,0
+whole milk powder,1,0,0,0,0,0,0,0,0
+whole wheat flour,0,0,0,0,0,0,1,0,0
+whole-wheat flour,0,0,0,0,0,0,1,0,0
+wholemeal flour,0,0,0,0,0,0,1,0,0
+xanthan gum,0,0,0,0,0,0,0,0,0
+yellow miso,0,0,0,0,0,0,0,1,0
+yoghurt,1,0,0,0,0,0,0,0,0
+yoghurt powder,1,0,0,0,0,0,0,0,0
+yogurt,1,0,0,0,0,0,0,0,0
+yogurt powder,1,0,0,0,0,0,0,0,0
+yolk,0,1,0,0,0,0,0,0,0
+yolks,0,1,0,0,0,0,0,0,0
+zucchini,0,0,0,0,0,0,0,0,0

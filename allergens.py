@@ -52,7 +52,7 @@ DISPLAY_NAMES = {
 # such as detecting Soy when the ingredients did not contain soy.
 #
 # A higher threshold makes the ML layer more conservative.
-ML_THRESHOLD = 0.75
+ML_THRESHOLD = 0.65
 
 
 # Explicit ingredient keywords.
@@ -809,6 +809,17 @@ EXPLICIT_ALLERGENS = {
         "soy concentrate",
         "soy extract",
         "soybean extract",
+        "douchi",
+        "fermented black bean",
+        "fermented black beans",
+        "chinese fermented black beans",
+        "fermented soybean",
+        "fermented soybeans",
+        "miso",
+        "miso paste",
+        "miso powder",
+        "tempeh",
+        "soybean cake",
     ],
 
 
@@ -861,8 +872,9 @@ EXPLICIT_ALLERGENS = {
 # Load the trained ML model (files sit next to this file)
 # ---------------------------------------------------------
 BASE = Path(__file__).parent
-vectorizer = joblib.load(BASE / "vectorizer.joblib")
-model = joblib.load(BASE / "model.joblib")
+
+vectorizer = joblib.load(BASE / "vectorizer_gemini.joblib")
+model = joblib.load(BASE / "model_gemini.joblib")
 
 
 def normalize_text(text: str) -> str:
